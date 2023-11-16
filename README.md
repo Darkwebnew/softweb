@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+# EX 07 Software Product Company Website
 ## Date:04/11/2023
 
 ## AIM:
